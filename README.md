@@ -4,24 +4,22 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (残风)</a>
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">ZhangHan</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
     
-- 🔭 empty
-- 🌱 empty
-- 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
- 
+- 姓名 张寒
+- 性别 女
+- 学校 中国海洋大学（OUC）
+- ❤️ 喜欢看小说 🍉追综艺,🎸听音乐,👉追星人一枚
+  
 ---
 </details>
   
-  ✨ 目前
+ - ✨ 自我评估：目前是一名大三的学生，在过去的两年里一直想认真努力的把大学生活过得有趣且满意。目前来说，个人成绩还不算特别突出，但也有了点小小的成就，第一学年获得社会实践奖学金，第二学年获得综合三等奖学金。也努力的在参加社会实践活动，曾参与了鲁喀专项活动，获得线上志愿活动43小时。但其实目前来说，对于专业知识，专业技能的掌握，我其实并没有很突出，只对于基本的C语言，C++掌握较好，而Java，Python都还学的较浅，并不能很好的运用。
+ - 🍦未来规划：对于未来，我其实已经想好了要参与到考研大军里去，不管结果如何，都还是想争取一下。近一点的呢，就是想要在这一学年好好努力，每一门课都能好好地通过，不挂科，得到优秀成绩。
  
  
 <!--my introduction end -->
