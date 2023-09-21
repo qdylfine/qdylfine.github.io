@@ -36,11 +36,12 @@
 </p>
  
 <p align="center">
-  <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://f.afbkw.cn/WQqVU6" width="28px"/>
+   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
+    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
       <a href="https://blog.csdn.net/qdylfine?type=blog" target="_blank" alt="CSDN" title="CSDN">
+        <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
