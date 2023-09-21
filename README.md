@@ -36,7 +36,7 @@
 </p>
  
 <p align="center">
-   <a href= "./imgages1/1-1.jpg" height="300px" width="300px" target="_blank" alt="WeChat" title="WeChat">
+   <a href= "./images1/1-1.jpg" height="300px" width="300px" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
