@@ -1,7 +1,7 @@
 # qdylfine.github.io
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/HIM198/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+<a href="https://github.com/qdylfine/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=qdylfine&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">ZhangHan</a>
@@ -13,7 +13,7 @@
 - 姓名 张寒
 - 性别 女
 - 学校 中国海洋大学（OUC）
-- ❤️ 喜欢看小说 🍉追综艺,🎸听音乐,👉追星人一枚
+- ❤️ 喜欢看小说 🍉追综艺,🎸听音乐,👉追星人一枚， 1️⃣7️⃣&🐇（懂暗号之人一起玩啊！）
   
 ---
 </details>
@@ -27,53 +27,38 @@
 <br>
  
 <p align="center">
-  <a href="https://github.com/HIM198" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
+  <a href="https://github.com/qdylfine" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=qdylfine&title_color=333&text_color=777" alt="qdylfine's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=qdylfine&hide=issues&title_color=333&text_color=777" alt="qdylfine's Stats" >
     -->
   </a>
 </p>
  
 <p align="center">
   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+    <img src="https://f.afbkw.cn/WQqVU6" width="28px"/>
   </a>
   &emsp;
- 
-  <a href="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+      <a href="https://blog.csdn.net/qdylfine?type=blog" target="_blank" alt="CSDN" title="CSDN">
   </a>
-  &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
-  </a>
-  &emsp;
-      <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-     <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/qdylfine">
+    <img src="https://badges.strrl.dev/visits/qdylfine/qdylfine?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/qdylfine">
+    <img src="https://badges.strrl.dev/years/qdylfine?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/qdylfine?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/qdylfine?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/HIM198">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/qdylfine">
+    <img src="https://badges.strrl.dev/gists/qdylfine?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
-    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/qdylfine">
+    <img src="https://badges.strrl.dev/commits/monthly/qdylfine?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
